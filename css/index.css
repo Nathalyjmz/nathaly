@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+}
+
+.una, .siete, .ocho {
+    width: 100%;
+    background-color: rgba(180, 193, 81, 0.658);
+}
+
+.una {
+    height: 50px;
+}
+
+.dos, .tres {
+    display: inline-block;
+    width: 49.5%;
+    height: 400px;
+    vertical-align: top;
+    margin-top: 60px;
+}
+
+.dos {
+    background-color: rgb(166, 108, 108);
+    margin-left: yyyyy;
+}
+
+.tres {
+    background-color: rgb(55, 55, 72);
+}
+
+.cuatro, .cinco {
+    width: 96%;
+    height: 180px;
+    background-color: rgb(151, 91, 162);
+    margin: 13px 0;
+    margin-left: 14px;
+}
+
+.siete {
+    height: 380px;
+    background-color: rgb(42, 165, 63);
+    margin-top: 50px;
+}
+
+.ocho {
+    height: 90px;
+    background-color: rgba(209, 109, 123, 0.658);
+}
+
